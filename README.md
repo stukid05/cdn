@@ -1,12 +1,11 @@
 # CDN 
 
- > LXYOvO CDN by jsDelivr 
+> LXYOvO CDN by jsDelivr 
 
+- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/LXYOvO/cdn>
 - GitHub: <https://github.com/LXYOvO/cdn> 
 - GitHub CDN: <https://github.com/LXYOvO/cdn/raw/master> 
 - GitHub CDN Alias: <https://cdn.xowo.top> 
-- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/LXYOvO/cdn> 
-- jsDelivr CDN Alias: <https://cdn.elpsy.cn> 
 
 ## Fonts 
 
