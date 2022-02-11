@@ -2,18 +2,18 @@
 
  > LXYOvO CDN by jsDelivr 
 
- - GitHub: <https://github.com/LXYOvO/cdn> 
- - GitHub CDN: <https://github.com/LXYOvO/cdn/raw/master> 
- - GitHub CDN Alias: <https://cdn.xowo.top> 
- - jsDelivr CDN: <https://cdn.jsdelivr.net/gh/LXYOvO/cdn> 
- - jsDelivr CDN Alias: <https://cdn.elpsy.cn> 
+- GitHub: <https://github.com/LXYOvO/cdn> 
+- GitHub CDN: <https://github.com/LXYOvO/cdn/raw/master> 
+- GitHub CDN Alias: <https://cdn.xowo.top> 
+- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/LXYOvO/cdn> 
+- jsDelivr CDN Alias: <https://cdn.elpsy.cn> 
 
- ## Fonts 
+## Fonts 
 
- - [Google Fonts](https://fonts.google.com/) 
+- [Google Fonts](https://fonts.google.com/) 
 
- ## Usage 
+## Usage 
 
- You can use [PicGo](https://github.com/Molunerfinn/PicGo) upload your images. 
+You can use [PicGo](https://github.com/Molunerfinn/PicGo) upload your images. 
 
- Set folder `/img`, repo `cdn`. 
+Set folder `/img`, repo `cdn`. 
