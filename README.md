@@ -2,17 +2,17 @@
 
   
 
- > YunYouJun CDN by jsDelivr 
+ > LXYOvO CDN by jsDelivr 
 
   
 
- - GitHub: <https://github.com/YunYouJun/cdn> 
+ - GitHub: <https://github.com/LXYOvO/cdn> 
 
- - GitHub CDN: <https://github.com/YunYouJun/cdn/raw/master> 
+ - GitHub CDN: <https://github.com/LXYOvO/cdn/raw/master> 
 
- - GitHub CDN Alias: <https://cdn.yunyoujun.cn> 
+ - GitHub CDN Alias: <https://cdn.xowo.top> 
 
- - jsDelivr CDN: <https://cdn.jsdelivr.net/gh/YunYouJun/cdn> 
+ - jsDelivr CDN: <https://cdn.jsdelivr.net/gh/LXYOvO/cdn> 
 
  - jsDelivr CDN Alias: <https://cdn.elpsy.cn> 
 
