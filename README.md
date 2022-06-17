@@ -2,9 +2,9 @@
 
 > Stukid CDN by jsDelivr 
 
-- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/LXYOvO/cdn/>
-- GitHub: <https://github.com/LXYOvO/cdn> 
-- GitHub CDN: <https://github.com/LXYOvO/cdn/raw/master/> 
+- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/stukid05/cdn/>
+- GitHub: <https://github.com/stukid05/cdn> 
+- GitHub CDN: <https://github.com/stukid05/cdn/raw/master/> 
 - GitHub CDN Alias: <https://cdn.stukid.top/> 
 
 ## Fonts 
